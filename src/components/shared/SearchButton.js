@@ -44,7 +44,6 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.White,
   },
   containerDark: {
-    // top: -60,
     paddingVertical: vScale(25),
     paddingTop: vScale(50),
     paddingHorizontal: scale(20),

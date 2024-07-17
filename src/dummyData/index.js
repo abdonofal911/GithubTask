@@ -61,4 +61,3 @@ export const languageView = [
     label: 'CSS',
   },
 ];
-//`https://api.github.com/search/repositories?q=created:>${date}&language:${language}&sort=stars&order=desc&per_page=${count}`,
